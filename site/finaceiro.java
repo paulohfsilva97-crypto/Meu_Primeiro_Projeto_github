@@ -1,3 +1,8 @@
+
+
+
+
 public class finaceiro{
-    var nome "paulo;"
+
+    var nome "pedro;"
 }
